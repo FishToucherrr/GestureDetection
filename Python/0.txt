@@ -1,0 +1,26 @@
+Record length is 128
+done
+done
+Samples: 1000
+69
+(?, 128, 2)
+(?, 1, 128, 2)
+(?, 1, 99, 40)
+(?, 1, 40, 40)
+(?, 1, 35, 80)
+(?, 2800)
+(2800, 100)
+(100,)
+(?, 100)
+(?, 2)
+Epoch:  0  Training Loss:  3.8916655  Training Accuracy:  0.99712646
+Epoch:  1  Training Loss:  0.85941815  Training Accuracy:  0.99712646
+Epoch:  2  Training Loss:  0.23480791  Training Accuracy:  0.99856323
+Epoch:  3  Training Loss:  0.10435065  Training Accuracy:  1.0
+Epoch:  4  Training Loss:  0.058657665  Training Accuracy:  1.0
+Epoch:  5  Training Loss:  0.037281238  Training Accuracy:  1.0
+Epoch:  6  Training Loss:  0.025582224  Training Accuracy:  1.0
+Epoch:  7  Training Loss:  0.018485377  Training Accuracy:  1.0
+Epoch:  8  Training Loss:  0.013862513  Training Accuracy:  1.0
+Epoch:  9  Training Loss:  0.010701971  Training Accuracy:  1.0
+Testing Accuracy: 1.0
