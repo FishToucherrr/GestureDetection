@@ -45,4 +45,4 @@ forked from [Fudan-HCI/motion_gestures_detection](https://github.com/Fudan-HCI/m
 
 ​		Dong designed the newly added gestures and was responsible for training the newly designed neural networks. He also contributed to one third of the training data for the three novel gestures and writed the project report.
 
-​		Dai modified the demo Android project to adjust to our new gesture recognization, and added the user defined shorcuts into the Motion Gesture Detect Application. He supplied the rest of the training data and modified the project report.
+​		Dai modified the demo Android project to adjust to our new gesture recognization, and added the user defined shorcuts into the Motion Gesture Detect Application. He supplied the rest of the training data and implementd the project report.
