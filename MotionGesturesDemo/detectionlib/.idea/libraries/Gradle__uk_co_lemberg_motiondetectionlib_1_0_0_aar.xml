@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: uk.co.lemberg:motiondetectionlib:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/05b8850fdf767ed3749991d724e5e5dd/transformed/motiondetectionlib-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/05b8850fdf767ed3749991d724e5e5dd/transformed/motiondetectionlib-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/05b8850fdf767ed3749991d724e5e5dd/transformed/motiondetectionlib-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/uk.co.lemberg/motiondetectionlib/1.0.0/45e1b4d1f42f369567a3db0f3b52446bda599c51/motiondetectionlib-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
