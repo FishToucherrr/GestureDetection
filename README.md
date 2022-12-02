@@ -6,7 +6,6 @@ Project Repo: https://github.com/FishToucherrr/GestureDetection
 
 accompanies the article [Motion gesture detection using Tensorflow on Android](http://blog.lemberg.co.uk/motion-gesture-detection-using-tensorflow-android)
 
-forked from [Fudan-HCI/motion_gestures_detection](https://github.com/Fudan-HCI/motion_gestures_detection)
 
 
 ## Supported Gestures
